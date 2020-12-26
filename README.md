@@ -13,6 +13,12 @@
 
 Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
 
+## Demo
+
+<div align="center">
+  <img alt="Logo" src="https://github.com/saadhaxxan/GatsbyResume/blob/main/src/images/demo.png" width="100" />
+</div>
+
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
