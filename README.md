@@ -11,13 +11,9 @@
   </a>
 </p>
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
 
-## Demo
-
-<div align="center">
-  <img alt="Logo" src="https://github.com/saadhaxxan/GatsbyResume/blob/main/src/images/demo.png" width="100" />
-</div>
+![demo](https://raw.githubusercontent.com/saadhaxxan/GatsbyResume/main/src/images/demo.png)
 
 ## 🛠 Installation & Set Up
 
